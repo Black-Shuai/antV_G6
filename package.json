@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@antv/g6": "^3.1.5",
+    "@xunlei/vue-context-menu": "^1.0.2",
     "element-ui": "^2.12.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
@@ -64,6 +65,7 @@
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.0.8",
     "postcss-url": "^7.2.1",
+    "rightmenu": "^1.1.0",
     "rimraf": "^2.6.0",
     "sass-loader": "^7.3.1",
     "selenium-server": "^3.0.1",
